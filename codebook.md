@@ -1,7 +1,7 @@
 #<h1>Codebook</h1>
-This explains the different data variables that appear and were formed
+This explains the different data variables that appear and were formed and also gives a detailed idea of activiteis
 
-<h2>Identifiers</h2>
+<h2>Identifiers that were</h2>
 <ol><li>subject - The ID of the test subject</li>
 <li>activity - The type of activity performed when the corresponding measurements were taken</ol></li>
 
@@ -94,8 +94,7 @@ This explains the different data variables that appear and were formed
 
 
 
-<h2>
-Acitiviy labels
+<h2>the respective  labels
 </h2>
 <ol>
 <li>WALKING (value 1): subject was walking during the test</li>
