@@ -1,12 +1,12 @@
 #<h1>Codebook</h1>
-This explains the different data variables that appear and were formed and also gives a detailed idea of activiteis
+This  codebook explains the different data variables that appear and were formed and also gives a detailed idea of activiteis
 
-<h2>Identifiers that were</h2>
+<h2>Identifiers that were present</h2>
 <ol><li>subject - The ID of the test subject</li>
 <li>activity - The type of activity performed when the corresponding measurements were taken</ol></li>
 
 
-<h2>Measurementws</h2>
+<h2>Measurements</h2>
 
 <ol>
 <li>tBodyAccMeanX</li>
@@ -94,13 +94,13 @@ This explains the different data variables that appear and were formed and also 
 
 
 
-<h2>the respective  labels
+<h2>the respective  Activity labels
 </h2>
-<ol>
+<ul>
 <li>WALKING (value 1): subject was walking during the test</li>
 <li>WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test</li>
 <li>WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test</li>
 <li>SITTING (value 4): subject was sitting during the test</li>
 <li>STANDING (value 5): subject was standing during the test</li>
 <li>LAYING (value 6): subject was laying down during the test</li>
-</ol>
+</ul>
